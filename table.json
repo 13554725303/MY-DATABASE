@@ -1,0 +1,20 @@
+{
+  "table_name1": {
+    "table_name1": "表名",
+    "directory": "file_path",
+    "column_num": "int",
+    "column_list": {
+      "column1_name": "name1",
+      "column2_name": "name2"
+    }
+  },
+  "table_name2": {
+    "table_name2": "表名",
+    "directory": "file_path",
+    "column_num": "int",
+    "column_list": {
+      "column1_name": "name1",
+      "column2_name": "name2"
+    }
+  }
+}
