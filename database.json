@@ -1,0 +1,9 @@
+{
+  "database_name1": {
+    "table_name1": "table_path",
+    "table_name2": "table_path"
+  },
+  "database_name2": {
+    "table_name1": "table_path"
+  }
+}

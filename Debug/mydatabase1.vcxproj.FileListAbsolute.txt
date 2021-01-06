@@ -1,0 +1,2 @@
+D:\mydatabase\mydatabase1\Debug\mydatabase1.exe
+D:\mydatabase\mydatabase1\Debug\mydatabase1.pdb
